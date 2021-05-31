@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+.button{
+    background-color: orangered;
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+}
